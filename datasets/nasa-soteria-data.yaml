@@ -15,11 +15,5 @@ Resources:
     Region: us-west-2
     Type: S3 Bucket
 DataAtWork:
-  Tutorials:
-    - Title: Preprocessing and Analysis Scripts (currently undergoing NASA approval)
-      URL: TBD
-      Services: TBD
-      AuthorName: TBD
-      AuthorURL: TBD
   Publications:
     - Title: SOTERIA Simulation: Experimental Methods, Data Processing, and Data Quality. Tyler Fettrow, Chad Stephens, Lance Prinzel, Jon Holbrook, Sepher Bastami, Michael Stewart, Kathryn Ballard, Daniel Kiggins. In Progress.
